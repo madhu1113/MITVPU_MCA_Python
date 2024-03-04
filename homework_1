@@ -1,3 +1,5 @@
+# Homework-1
+
 s = "this is My First Python programming class and i am learNING python string and its function"
 1 . Try to extract data from index one to index 300 with a jump of 3 
 2. Try to reverse a string without using reverse function 
@@ -13,3 +15,5 @@ s = "this is My First Python programming class and i am learNING python string a
 11 . Write your own definition of compiler and interpretor without copy paste form internet in your own language
 12 . Python is a interpreted of compiled language give a clear ans with your understanding 
 13 . Try to write a usecase of python with your understanding .
+14. Why Python is So Popular?
+15. What is the difference between C, C++, Java and Python?
